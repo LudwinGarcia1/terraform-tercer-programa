@@ -30,5 +30,5 @@ variable "log_analytics_sku" {
 variable "web_app_name" {
   description = "Nombre de la aplicación web del entorno QA"
   type        = string
-  default     = "app-utvt-integradora-web-qa-mxc-lgg01"
+  default     = "app-utvt-integradora-web-qa-use-lgg01"
 }
